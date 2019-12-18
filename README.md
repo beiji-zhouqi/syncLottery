@@ -6,5 +6,8 @@
 
     ```python
     git clone git@github.com:beiji-zhouqi/syncLottery.git
-
+    pip install -r requirements.txt
     ```
+- 数据库
+
+    使用mysqldump 导入sql文件夹下面的sql，创建数据库和数据表
